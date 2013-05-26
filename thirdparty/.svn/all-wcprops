@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4245/branches/3.0/thirdparty
+END
+_manifest_exclude
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3224/branches/3.0/thirdparty/_manifest_exclude
+END
+Emogrifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3927/branches/3.0/thirdparty/Emogrifier.php
+END
+jquery.colorbox-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4245/branches/3.0/thirdparty/jquery.colorbox-min.js
+END

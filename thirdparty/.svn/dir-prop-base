@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 132
+#simpledialogue http://jquery-simpledialog.googlecode.com/svn/trunk/
+colorbox https://github.com/jackmoore/colorbox/branches/master
+
+END

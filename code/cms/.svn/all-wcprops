@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4493/branches/3.0/code/cms
+END
+ProductsAndGroupsModelAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4305/branches/3.0/code/cms/ProductsAndGroupsModelAdmin.php
+END
+SalesAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3886/branches/3.0/code/cms/SalesAdmin.php
+END
+ProductBulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4493/branches/3.0/code/cms/ProductBulkLoader.php
+END
+StoreAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4305/branches/3.0/code/cms/StoreAdmin.php
+END
+ModelAdminEcommerceBaseClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4484/branches/3.0/code/cms/ModelAdminEcommerceBaseClass.php
+END

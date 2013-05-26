@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4485/branches/3.0/code/model/process
+END
+OrderStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4319/branches/3.0/code/model/process/OrderStatusLog.php
+END
+OrderEmailRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4483/branches/3.0/code/model/process/OrderEmailRecord.php
+END
+OrderStep.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4485/branches/3.0/code/model/process/OrderStep.php
+END

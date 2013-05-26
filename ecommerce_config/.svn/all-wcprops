@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4484/branches/3.0/ecommerce_config
+END
+_manifest_exclude
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3808/branches/3.0/ecommerce_config/_manifest_exclude
+END
+ecommerce.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4484/branches/3.0/ecommerce_config/ecommerce.yaml
+END
+EcomCartConfigExample.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3604/branches/3.0/ecommerce_config/EcomCartConfigExample.js
+END

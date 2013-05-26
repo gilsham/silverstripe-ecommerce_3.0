@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4483/branches/3.0/code/model/address
+END
+EcommerceCountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4483/branches/3.0/code/model/address/EcommerceCountry.php
+END
+EcommerceRegion.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4483/branches/3.0/code/model/address/EcommerceRegion.php
+END
+BillingAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4021/branches/3.0/code/model/address/BillingAddress.php
+END
+ShippingAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4021/branches/3.0/code/model/address/ShippingAddress.php
+END
+OrderAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4238/branches/3.0/code/model/address/OrderAddress.php
+END

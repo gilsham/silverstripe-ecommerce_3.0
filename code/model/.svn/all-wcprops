@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4490/branches/3.0/code/model
+END
+Order.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4490/branches/3.0/code/model/Order.php
+END
+OrderAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4484/branches/3.0/code/model/OrderAttribute.php
+END
+OrderModifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4312/branches/3.0/code/model/OrderModifier.php
+END
+OrderItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4484/branches/3.0/code/model/OrderItem.php
+END

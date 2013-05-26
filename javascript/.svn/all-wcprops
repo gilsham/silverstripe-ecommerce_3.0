@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4306/branches/3.0/javascript
+END
+EcomPayment.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4236/branches/3.0/javascript/EcomPayment.js
+END
+EcomOrderForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3224/branches/3.0/javascript/EcomOrderForm.js
+END
+EcomOrderFormShipping.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3740/branches/3.0/javascript/EcomOrderFormShipping.js
+END
+Strategy.md
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3224/branches/3.0/javascript/Strategy.md
+END
+EcomQuantityField.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3740/branches/3.0/javascript/EcomQuantityField.js
+END
+EcomPrintAndMail.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3224/branches/3.0/javascript/EcomPrintAndMail.js
+END
+EcomProducts.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4219/branches/3.0/javascript/EcomProducts.js
+END
+jquery.colorbox.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4219/branches/3.0/javascript/jquery.colorbox.min.js
+END
+EcomOrderFormAddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4020/branches/3.0/javascript/EcomOrderFormAddress.js
+END
+EcomSelectOrderAddressField.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3603/branches/3.0/javascript/EcomSelectOrderAddressField.js
+END
+EcomPasswordField.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4306/branches/3.0/javascript/EcomPasswordField.js
+END
+EcomBuyableSelectField.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3740/branches/3.0/javascript/EcomBuyableSelectField.js
+END
+EcomModelAdminExtensions.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3224/branches/3.0/javascript/EcomModelAdminExtensions.js
+END
+EcomCart.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3856/branches/3.0/javascript/EcomCart.js
+END

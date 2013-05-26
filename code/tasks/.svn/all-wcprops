@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4484/branches/3.0/code/tasks
+END
+LinkOrderAddressesAtBothEnds.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3224/branches/3.0/code/tasks/LinkOrderAddressesAtBothEnds.php
+END
+EcommerceTaskDebugCart.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4236/branches/3.0/code/tasks/EcommerceTaskDebugCart.php
+END
+EcommerceTaskLinkProductsWithImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4273/branches/3.0/code/tasks/EcommerceTaskLinkProductsWithImages.php
+END
+EcommerceProductImageReset.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3856/branches/3.0/code/tasks/EcommerceProductImageReset.php
+END
+EcommerceMigration.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4261/branches/3.0/code/tasks/EcommerceMigration.php
+END
+EcommerceTaskOrderItemsPerCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4236/branches/3.0/code/tasks/EcommerceTaskOrderItemsPerCustomer.php
+END
+CartManipulation.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3603/branches/3.0/code/tasks/CartManipulation.php
+END
+DeleteAllOrders.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4249/branches/3.0/code/tasks/DeleteAllOrders.php
+END
+EcommerceTaskExportAllOrderItems.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4236/branches/3.0/code/tasks/EcommerceTaskExportAllOrderItems.php
+END
+CreateEcommerceMemberGroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4066/branches/3.0/code/tasks/CreateEcommerceMemberGroups.php
+END
+CheckAllURLs.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4274/branches/3.0/code/tasks/CheckAllURLs.php
+END
+EcommerceTaskArchiveAllSubmittedOrders.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4261/branches/3.0/code/tasks/EcommerceTaskArchiveAllSubmittedOrders.php
+END
+EcommerceTryToFinaliseOrdersTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4221/branches/3.0/code/tasks/EcommerceTryToFinaliseOrdersTask.php
+END
+EcommerceTemplateTestTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3603/branches/3.0/code/tasks/EcommerceTemplateTestTask.php
+END
+EcommerceCountryAndRegionTasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4484/branches/3.0/code/tasks/EcommerceCountryAndRegionTasks.php
+END
+EcommerceProductVariationsFixesTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3224/branches/3.0/code/tasks/EcommerceProductVariationsFixesTask.php
+END
+AddCustomersToCustomerGroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3886/branches/3.0/code/tasks/AddCustomersToCustomerGroups.php
+END
+CartCleanupTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3886/branches/3.0/code/tasks/CartCleanupTask.php
+END
+EcommerceCheckConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4236/branches/3.0/code/tasks/EcommerceCheckConfiguration.php
+END
+CleanupProductFullSiteTreeSorting.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3857/branches/3.0/code/tasks/CleanupProductFullSiteTreeSorting.php
+END
+EcommerceDefaultRecords.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4265/branches/3.0/code/tasks/EcommerceDefaultRecords.php
+END
+FixBrokenOrderSubmissionData.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3603/branches/3.0/code/tasks/FixBrokenOrderSubmissionData.php
+END
+SetOrderIDStartingNumber.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3603/branches/3.0/code/tasks/SetOrderIDStartingNumber.php
+END
+DeleteEcommerceProductsTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3857/branches/3.0/code/tasks/DeleteEcommerceProductsTask.php
+END
+SetDefaultProductGroupValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3886/branches/3.0/code/tasks/SetDefaultProductGroupValues.php
+END
+EcommerceTaskBuilding.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4238/branches/3.0/code/tasks/EcommerceTaskBuilding.php
+END
+AddDefaultEcommerceProducts.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3856/branches/3.0/code/tasks/AddDefaultEcommerceProducts.php
+END

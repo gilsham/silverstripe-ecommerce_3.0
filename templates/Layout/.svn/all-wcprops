@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4238/branches/3.0/templates/Layout
+END
+DevelopmentAdminEcommerce.ss
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4238/branches/3.0/templates/Layout/DevelopmentAdminEcommerce.ss
+END
+EcommerceTemplateTest.ss
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4238/branches/3.0/templates/Layout/EcommerceTemplateTest.ss
+END
+EcommerceDatabaseAdmin.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3886/branches/3.0/templates/Layout/EcommerceDatabaseAdmin.ss
+END
+ProductGroup.ss
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3915/branches/3.0/templates/Layout/ProductGroup.ss
+END
+Product.ss
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3915/branches/3.0/templates/Layout/Product.ss
+END
+OrderConfirmationPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3224/branches/3.0/templates/Layout/OrderConfirmationPage.ss
+END
+CheckoutPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3740/branches/3.0/templates/Layout/CheckoutPage.ss
+END
+CartPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3740/branches/3.0/templates/Layout/CartPage.ss
+END
+AccountPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3224/branches/3.0/templates/Layout/AccountPage.ss
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4493/branches/3.0/code
+END
+CheckoutPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4490/branches/3.0/code/CheckoutPage.php
+END
+CartPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4484/branches/3.0/code/CartPage.php
+END
+AccountPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4021/branches/3.0/code/AccountPage.php
+END
+ProductGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4490/branches/3.0/code/ProductGroup.php
+END
+ProductGroupSearchPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4487/branches/3.0/code/ProductGroupSearchPage.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4489/branches/3.0/code/Product.php
+END
+OrderConfirmationPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4248/branches/3.0/code/OrderConfirmationPage.php
+END

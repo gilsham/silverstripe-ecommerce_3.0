@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4484/branches/3.0/code/forms
+END
+ShopAccountForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4484/branches/3.0/code/forms/ShopAccountForm.php
+END
+OrderModifierForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4479/branches/3.0/code/forms/OrderModifierForm.php
+END
+OrderForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4250/branches/3.0/code/forms/OrderForm.php
+END
+OrderFormAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4484/branches/3.0/code/forms/OrderFormAddress.php
+END
+OrderStatusLogForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4479/branches/3.0/code/forms/OrderStatusLogForm.php
+END

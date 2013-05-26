@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4490/branches/3.0/templates
+END
+Invoice.ss
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3758/branches/3.0/templates/Invoice.ss
+END
+CartWidget.ss
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3741/branches/3.0/templates/CartWidget.ss
+END
+AjaxCart.ss
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3857/branches/3.0/templates/AjaxCart.ss
+END
+SelectVariationFromProductGroup.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3224/branches/3.0/templates/SelectVariationFromProductGroup.ss
+END
+CurrencyWidget.ss
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3741/branches/3.0/templates/CurrencyWidget.ss
+END
+EcommercePaymentController.ss
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3224/branches/3.0/templates/EcommercePaymentController.ss
+END
+PackingSlip.ss
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4021/branches/3.0/templates/PackingSlip.ss
+END
+EcomQuantityField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3857/branches/3.0/templates/EcomQuantityField.ss
+END
+PaymentProcessingPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3224/branches/3.0/templates/PaymentProcessingPage.ss
+END
